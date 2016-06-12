@@ -39,20 +39,20 @@ The seed funding for the internship program will come from Tigo CTM and isysd (a
  
 ### Costs
 
+The monthly rate for [Workings](http://workingspty.com/) was used for cost estimation, but no office is determined, as yet.
+
  - $250/mo for Intern Manager office
  - $250/mo per intern for office
 
-These costs are to be covered in an "overhead" line item of $350/intern/mo. This is not guaranteed to be paid for each intern, but also includes some buffer.
+##### Surpluses and Deficits    
+
+These costs are to be covered in an "overhead" line item of $350/intern/mo. This is not guaranteed to be paid for each intern, but also includes some buffer. With those revenues and the costs outlined above, the program will break even with 3 (round up from 2.5) fully operating interns.
 
 ```
 i * 350 = 250 + i * 250
 i * 100 = 250
 i = 2.5
 ```
-
-With the costs outlined above, the program will break even with 3 (round up from 2.5) fully operating interns.
-
-##### Surpluses and Deficits    
 
 If the program is unable to break even for any month, it is allowed to draw from the funding that the Creditors provided. This balance is still expected to be paid back from surplus in future months. Until such a deficit is paid back, 100% of overhead must go to costs or paying back the deficit.  
 
