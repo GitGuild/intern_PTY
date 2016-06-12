@@ -80,3 +80,6 @@ __Pay Table__
 |$2000  | $1060    | $580           | $10       | $350     | 20:80 split |
 |$2500(+)| $1510   | $630           | $10       | $350     | 10:90 split |
 
+# Graduation
+
+Interns graduate from the program upon earning 10,000 TGG. At this stage, they are considered full Git Guild Members, and according to the charter, will be accorded the rank of Journeyer.
