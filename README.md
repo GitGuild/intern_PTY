@@ -56,7 +56,7 @@ i = 2.5
 
 If the program is unable to break even for any month, it is allowed to draw from the funding that the Creditors provided. This balance is still expected to be paid back from surplus in future months. Until such a deficit is paid back, 100% of overhead must go to costs or paying back the deficit.  
 
-If the program is running a surplus, both month over month, and with regard to the Creditors, then excess overhead funds are to be split monthly, evenly between the Intern Manager(s) and Creditor(s), each receiving 50%. For example, if there is a 100 TGG surplus, the Creditors will receive 50 TGG, and the Intenrn Manager receives 50 TGG.
+If the program is running a surplus, both month over month, and with regard to the Creditors, then excess overhead funds are to be split monthly, evenly between the Intern Manager(s) and Creditor(s), each receiving 50%. For example, if there is a 100 TGG surplus, the Creditors will receive 50 TGG, and the Intern Manager receives 50 TGG.
 
 ### Revenues
 
