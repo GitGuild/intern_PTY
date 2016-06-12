@@ -29,12 +29,14 @@ For the Git Guild itself, the deliverables will be tasks done.
 
 # Economics  
 
+* Note that 1 TGG currently equals US$1 *
+
 ### Funding
 
 2000 TGG
 
-The seed funding for the internship program will come from Tigo CTM and isysd (a.k.a. the Creditors). Each agrees to contribute 1000 TGG, and asks to be paid back in full before July 1 2017. Additionally, each requests to be paid 5 TGG per month, per intern.  
-  
+The seed funding for the internship program will come from Tigo CTM and isysd (a.k.a. the Creditors). Each agrees to contribute 1000 TGG, and asks to be paid back in full before July 1 2017. Additionally, each requests to be paid 5 TGG per month, per intern.
+ 
 ### Costs
 
  - $250/mo for Intern Manager office
@@ -49,11 +51,11 @@ i = 2.5
 ```
 
 With the costs outlined above, the program will break even with 3 (round up from 2.5) fully operating interns.
-  
+
 ##### Surpluses and Deficits    
-    
+
 If the program is unable to break even for any month, it is allowed to draw from the funding that the Creditors provided. This balance is still expected to be paid back from surplus in future months. Until such a deficit is paid back, 100% of overhead must go to costs or paying back the deficit.  
-  
+
 If the program is running a surplus, both month over month, and with regard to the Creditors, then excess overhead funds are to be split monthly, evenly between the Intern Manager(s) and Creditor(s), each receiving 50%. For example, if there is a 100 TGG surplus, the Creditors will receive 50 TGG, and the Intenrn Manager receives 50 TGG.
 
 ### Revenues
@@ -65,21 +67,21 @@ The fixed payout tiers are:
 1. 350 TGG - overhead
 2. 10 TGG - Creditors
 
-After these are satisfied for the month, the Intern and Intern Manager split any remaining earnings. At first, they Intern Manager receives 75%, but eventually this reduces to 10%. The full pay table follows, with $ substituted for TGG for easy reading.
+After these are satisfied for the month, the Intern and Intern Manager split any remaining earnings. At first, the Intern Manager receives 75%, but eventually this reduces to 10%. The full pay table follows, all amounts in TGG.
 
 __Pay Table__
 
 | Earned  | Intern | Intern Manager | Creditors | Overhead | Description |
 |-------|----------|----------------|-----------|----------|-------------|
-|$350   | $0       | $0             | $0        | $350     | All overhead |
-|$360   | $0       | $0             | $10       | $350     | isysd & Tigo CTM |
-|$500   | $35      | $105           | $10       | $350     | 75:25 split |
-|$750   | $160     | $230           | $10       | $350     | 50:50 split |
-|$1000  | $310     | $330           | $10       | $350     | 40:60 split |
-|$1500  | $660     | $480           | $10       | $350     | 30:70 split |
-|$2000  | $1060    | $580           | $10       | $350     | 20:80 split |
-|$2500(+)| $1510   | $630           | $10       | $350     | 10:90 split |
+|350    | 0        | 0              | 0         | 350      | Overhead    |
+|360    | 0        | 0              | 10        | 350      | Creditors   |
+|500    | 35       | 105            | 10        | 350      | 75:25 split |
+|750    | 160      | 230            | 10        | 350      | 50:50 split |
+|1000   | 310      | 330            | 10        | 350      | 40:60 split |
+|1500   | 660      | 480            | 10        | 350      | 30:70 split |
+|2000   | 1060     | 580            | 10        | 350      | 20:80 split |
+|2500(+)| 1510     | 630            | 10        | 350      | 10:90 split |
 
 # Graduation
 
-Interns graduate from the program upon earning 10,000 TGG. At this stage, they are considered full Git Guild Members, and according to the charter, will be accorded the rank of Journeyer.
+Interns graduate from the program upon earning 10,000 TGG. At this stage, they are considered full Git Guild Members, and according to the charter, will be given the rank of Journeyer.
