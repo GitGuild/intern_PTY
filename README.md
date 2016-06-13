@@ -82,6 +82,22 @@ __Pay Table__
 |2000   | 1060     | 580            | 10        | 350      | 20:80 split |
 |2500(+)| 1510     | 630            | 10        | 350      | 10:90 split |
 
+### Wallets and Keys
+
+##### Management Wallet
+
+2 of 3 TGG using [Copay for colored coins](http://copay.coloredcoins.org/)
+
+The Management Wallet will hold all of the overhead and general funding for the internship program. The signers will be the Intern Manager and the Creditors, with the Creditors each electing 1 signer.
+
+##### Intern Wallets
+
+2 of 3 TGG using [Copay for colored coins](http://copay.coloredcoins.org/)
+
+Interns will be set up with their own wallets for intra-monthly use. They will earn TGG to the wallet, and at the end of the month, cash the balance out with the assistance of the Intern Manager.
+
+The signers will be the Intern, the Intern Manager, and one signer elected by the Creditors.
+
 # Graduation
 
 Interns graduate from the program upon earning 10,000 TGG. At this stage, they are considered full Git Guild Members, and according to the charter, will be given the rank of Journeyer.
